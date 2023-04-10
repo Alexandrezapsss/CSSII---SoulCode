@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+    font-weight: 900;
+}
+
+.receita1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.receita2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.receita3{
+    font-family: monospace;
+    font-size: normal;
+    font-weight: 500;
+    font-style: oblique;
+}
+
+.receita4{
+    font-family: fantasy;
+    font-size: x-small;
+    font-weight: 400;
+    font-style: normal;
+}

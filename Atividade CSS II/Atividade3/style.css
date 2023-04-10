@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+    font-weight: 900;
+}
+body {
+    text-align: center;
+    background-image: url(https://www.sabornamesa.com.br/media/k2/items/cache/36778fed172d9c8502d2d42dc025835b_XL.jpg);
+    font-family: Arial, sans-serif;
+  }
+  
+  .ingredientesObrigatorios {
+    color: green;
+  }
+  
+  .ingredientesAGosto {
+    color: blue;
+  }
+   
+  em {
+    font-style: italic;
+  }
+  #ingredientes{
+    background-color: rgb(228, 196, 196, 0.8);
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+  #preparo {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+  }
